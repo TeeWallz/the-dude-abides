@@ -35,3 +35,4 @@ pnpm-debug.log*
 .pnp.*
 
 venv
+script_elements.json
